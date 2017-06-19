@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+body {
+    background: lightblue;
+}
+
+h1 {
+    color : red;
+    font-family: 'Raleway', sans-serif;
+    text-align : center;
+    
+}
+
+img {
+    width: 500px;
+}
+
+
+.specialbunch {
+    color: Black;
+    font-family: raleway;
+}
+
+div {
+    color :pink;
+}
